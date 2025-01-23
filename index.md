@@ -23,5 +23,4 @@ My previous superviser is Prof. <a href="https://scholar.google.com/citations?us
 
 {% include_relative _includes/services.md %}
 
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=tt&d=VhOGL8yR6vLDt7zZXLStdEYZ9uqXoNHV3VRjVwZlFUw&co=bbbcbc&cmo=55baff&cmn=0267bf'></script>
-
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=bbbcbc&w=250&t=tt&d=VhOGL8yR6vLDt7zZXLStdEYZ9uqXoNHV3VRjVwZlFUw&co=ffffff&cmo=55baff&cmn=0267bf'></script>
