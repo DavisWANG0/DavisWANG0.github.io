@@ -1,18 +1,17 @@
-url: "hanchaozhang.xyz "
-# baseurl: Hanchao-Zhang.github.io
+url: "DavisWANG0.github.io"
 # Basic Information
-title: Hanchao Zhang
+title: Ling WANG
 # subtitle:
-position: Research Scientist
+# position: Research Scientist
 # subposition: Chair of the Chinese Student and Scholar Association (CSSA)
-subposition_link: https://nyu-medicine-cssa.github.io
-affiliation: Google LLC
-# subaffiliation: Grossman School of Medicine
-affiliation_link: https://about.google/
-subaffiliation_link: https://med.nyu.edu/research/vilcek-institute-graduate-biomedical-sciences/
-email: Hanchao.Zhang@nyu.edu
-address: 100 Bayview Dr, Mountain View, CA 94043
-address_link: https://goo.gl/maps/aQZfmiKjQmqbDsVY9
+# subposition_link: https://nyu-medicine-cssa.github.io
+affiliation: Hong Kong University of Science and Technology (HKUST)
+subaffiliation: AI Thrust  
+# affiliation_link: https://www.nyu.edu
+subaffiliation_link: https://vlislab22.github.io/vlislab/people.html
+email: davis0wang@outlook.com
+# address: 100 Bayview Dr, Mountain View, CA 94043
+# address_link: https://goo.gl/maps/aQZfmiKjQmqbDsVY9
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
@@ -22,18 +21,18 @@ canonical: https://minimal-light-theme.yliu.me/
 
 # Links
 # If you don't need one of them, you may delete the corresponding line.
-google_scholar: https://scholar.google.com/citations?user=bePCCD8AAAAJ&hl=en
+# google_scholar: https://scholar.google.com/citations?user=bePCCD8AAAAJ&hl=en
 # cv_link: assets/files/HanchaoZhangCV.pdf
-github_link: https://github.com/Hanchao-Zhang
-linkedin: https://www.linkedin.com/in/hanchao-ted-zhang-670105b7/?locale=en_US
-twitter: https://twitter.com/tedddddy_zhang
+github_link: https://github.com/DavisWANG0
+linkedin: https://www.linkedin.com/in/0lingwang/
+# twitter: https://twitter.com/tedddddy_zhang
 
 # Images (e.g., your profile picture and your website's favicon)
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively.
-avatar: ./assets/img/avatar.jpeg
+avatar: ./assets/img/lingwang.png
 # logo: ./assets/img/logo.png
-favicon: ./assets/img/favicon.png
-favicon_dark: ./assets/img/favicon-dark.png
+favicon: ./assets/img/logo_hkust.png
+favicon_dark: ./assets/img/logo_hkust.png
 
 # Footnote
 # You may use the option to disable the footnote, "Powered by Jekyll and Minimal Light theme."
