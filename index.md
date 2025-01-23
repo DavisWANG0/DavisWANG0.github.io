@@ -8,17 +8,6 @@ I am an M.Phil student in AI Thrust at <a href="https://www.hkust-gz.edu.cn/acad
 My previous superviser is Prof. <a href="https://scholar.google.com/citations?user=J9Z9Q8UAAAAJ&hl=en">Lin Wang</a> and now he transferred to NTU, Singapore and I got my B.Eng degree at <a href="https://en.tongji.edu.cn/p/#/">Tongji University</a>.
  <!-- under the supervision of Prof. <a href="https://scholar.google.com/citations?user=aYKQn88AAAAJ&hl=en&oi=ao">Wei Tian</a>. -->
 
-<!-- ## News -->
-<!-- - *2025.01* Successfully passed PhD Qualifying Examination!
-- *2024.12* Invited as an **Area Chair** of PDLM @ **AAAI 2025**.
-- *2024.10* One paper accepted to **IEEE TPAMI**
-- *2024.10* Oral presentation @ **ECCV 2024 Oral Session 5A: Segmentation** [(video)](https://eccv.ecva.net/virtual/2024/session/103)
-
-
-
-<!-- ## Academic Experience
-- 2023.06 - 2024.09, Research Assistant, Supervisor: <a href="https://scholar.google.com/citations?user=SReb2csAAAAJ&hl=zh-CN">Lin Wang</a> 
- <br>Research area: Event-based vision and Multi-modal learning -->
 {% include_relative _includes/publications.md %}
 
 ## Education
@@ -37,7 +26,7 @@ My previous superviser is Prof. <a href="https://scholar.google.com/citations?us
 - **[Sep. 2021 ‑ Dec. 2021]** Technical Intern,  <a href="https://www.synopsys.com/">Synopsys Inc.</a>, Shanghai
 - **[Sep. 2022 ‑ Feb. 2023]** Multi-modal NLP Research Intern,  <a href="https://www.oppo.com/en/proposal-2022/">OPPO Research Institute</a>, Shenzhen
 
-{% include_relative _includes/services.md %}
+<!-- {% include_relative _includes/services.md %} -->
 
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=080808&w=a&t=tt&d=zrl7WjzBxF_qKC05N5OneNhjFigQ9jPab4GJHSWvjkI&co=ffffff&cmo=3acc3a&cmn=ff5353&ct=808080'></script>
 

@@ -7,7 +7,7 @@
 
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/icra25_visualization.pdf" class="teaser img-fluid z-depth-1">
+    <img src="assets/img/icra25_visualization.png" class="teaser img-fluid z-depth-1">
     <abbr class="badge">arXiv</abbr>
   </div>
 
@@ -25,7 +25,7 @@
 <li>
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/trans_braindreamer.pdf" class="teaser img-fluid z-depth-1">
+    <img src="assets/img/trans_braindreamer.png" class="teaser img-fluid z-depth-1">
     <abbr class="badge">arXiv</abbr>
   </div>
 
@@ -41,7 +41,7 @@
 </div>
 </li>
 
-<!-- <li>
+<li>
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/img/EIT-1M.png" class="teaser img-fluid z-depth-1">
@@ -54,25 +54,6 @@
     <div class="periodical"><em>arXiv <strong>(arXiv)</strong>, Jul. 2024.</em></div>
     <div class="links">
       <a href="https://arxiv.org/pdf/2407.01884" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-      <strong><i style="color:#7b5aa6">arXiv.org</i></strong>
-    </div>
-  </div>
-</div>
-</li> -->
-
-<li>
-<div class="pub-row">
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/EIT-1M.png" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">arXiv</abbr>
-  </div>
-
-  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://arxiv.org/pdf/2411.06456">Dropout the High-rate Downsampling: A Novel Design Paradigm for UHD Image Restoration</a></div>
-    <div class="author">Xu Zheng<sup>†</sup>, <strong>Ling Wang<sup>†</sup></strong>, Kanghao Chen, Yuanhuiyi Lyu, Jiazhou Zhou, Lin Wang*</div>
-    <div class="periodical"><em>arXiv <strong>(arXiv)</strong>, Jul. 2024.</em></div>
-    <div class="links">
-      <a href="https://arxiv.org/pdf/2411.06456" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <strong><i style="color:#7b5aa6">arXiv.org</i></strong>
     </div>
   </div>
