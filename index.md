@@ -5,7 +5,7 @@ layout: homepage
 
 ## About Me
 I am an M.Phil student in AI Thrust at <a href="https://www.hkust-gz.edu.cn/academics/hubs-and-thrust-areas/information-hub/">AI Thrust, Information Hub</a> of <a href="https://www.hkust-gz.edu.cn/"> The Hong Kong University of Science and Technology, Guangzhou campus</a>. I am fortunate to be advised by Prof.  <a href="https://scholar.google.com/citations?user=cVDF1tkAAAAJ&hl=en&oi=ao">Hui Xiong</a> and Prof. <a href="https://scholar.google.com/citations?hl=en&user=AQtqhaYAAAAJ">Lei Zhu</a>. 
-My previous superviser is Prof. <a href="https://scholar.google.com/citations?user=J9Z9Q8UAAAAJ&hl=en">Lin Wang</a> and now he transferred to NTU, Singapore and I got my B.Eng degree at <a href="https://en.tongji.edu.cn/p/#/">Tongji University</a>.
+My previous superviser is Prof. <a href="https://scholar.google.com/citations?hl=en&user=SReb2csAAAAJ">Lin Wang</a> and now he transferred to NTU, Singapore and I got my B.Eng degree at <a href="https://en.tongji.edu.cn/p/#/">Tongji University</a>.
  <!-- under the supervision of Prof. <a href="https://scholar.google.com/citations?user=aYKQn88AAAAJ&hl=en&oi=ao">Wei Tian</a>. -->
 
 {% include_relative _includes/publications.md %}
