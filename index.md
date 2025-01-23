@@ -10,7 +10,6 @@ My previous superviser is Prof. <a href="https://scholar.google.com/citations?us
 
 {% include_relative _includes/publications.md %}
 
-
 ## Education
 
 - **[Aug. 2023 ‑ Aug. 2025]** M.Phil., Artificial Intelligence, <a href="https://www.hkust-gz.edu.cn/">HKUST</a>, Guangzhou, China

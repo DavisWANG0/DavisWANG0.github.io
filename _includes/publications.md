@@ -4,7 +4,6 @@
 <ol class="bibliography">
 
 <li>
-
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/img/icra25_visualization.png" class="teaser img-fluid z-depth-1">
@@ -21,6 +20,7 @@
     </div>
   </div>
 </div>
+</li>
 
 <li>
 <div class="pub-row">
