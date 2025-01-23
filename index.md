@@ -10,15 +10,11 @@ My previous superviser is Prof. <a href="https://scholar.google.com/citations?us
 
 {% include_relative _includes/publications.md %}
 
+
 ## Education
+
 - **[Aug. 2023 ‑ Aug. 2025]** M.Phil., Artificial Intelligence, <a href="https://www.hkust-gz.edu.cn/">HKUST</a>, Guangzhou, China
 - **[Jun. 2019 ‑ Jul. 2023]** B.Eng., Software Engineering, <a href="https://en.tongji.edu.cn/p/#/">Tongji University</a>, Shanghai, China
-
-<!-- ## Honors and Awards
-- *2023.07* &emsp;**Outstanding Master's Thesis in Liaoning Province / Northeastern University(<1%)**. 
-- *2022.09* &emsp;**National Scholoarship of China (<2%)**. 
-- *20-21/22/23.09* &emsp;**First Class Master Scholoarship of Northeastern University (<20%)**. 
-- *2019.06* &emsp;**Outstanding Graduate of Liaoning Province / Northeastern University (<2%)**.  -->
 
 
 ## Internships
