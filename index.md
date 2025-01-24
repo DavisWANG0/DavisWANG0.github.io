@@ -18,7 +18,7 @@ My previous superviser was Prof. <a href="https://scholar.google.com/citations?h
 ## Internships
 
 - **[Sep. 2022 ‑ Feb. 2023]** Multi-modal NLP Research Intern, <img src="assets/img/oppo_logo.png" style="height: 30px; vertical-align: middle; margin: 0 0px;"/> <a href="https://www.oppo.com/en/proposal-2022/">OPPO Research Institute</a>, Shenzhen
-- **[Sep. 2021 ‑ Dec. 2021]** Technical Intern, <img src="assets/img/synopsys_logo.png" style="height: 40px; vertical-align: middle; margin: 0;"/> <a href="https://www.synopsys.com/">Synopsys Inc.</a>, Shanghai
+- **[Sep. 2021 ‑ Dec. 2021]** Technical Intern, <img src="assets/img/synopsys_logo.png" style="height: 25px; vertical-align: middle; margin: 0;"/> <a href="https://www.synopsys.com/">Synopsys Inc.</a>, Shanghai
 
 {% include_relative _includes/services.md %}
 
