@@ -8,7 +8,7 @@ My previous superviser was Prof. <a href="https://scholar.google.com/citations?h
  <!-- under the supervision of Prof. <a href="https://scholar.google.com/citations?user=aYKQn88AAAAJ&hl=en&oi=ao">Wei Tian</a>. -->
 
 ## News
-- *2025.01* One paper accepted to **ICRA 2025**
+- *2025.01* One paper accepted to **ICRA 2025**.🎉
 
 {% include_relative _includes/publications.md %}
 
