@@ -7,6 +7,9 @@ I am Ling WANG (<span style="font-family: 'KaiTi', '楷体', 'STKaiti', '华文�
 My previous superviser was Prof. <a href="https://scholar.google.com/citations?hl=en&user=SReb2csAAAAJ">Lin Wang</a> and now he transferred to NTU, Singapore and I got my B.Eng degree at <a href="https://en.tongji.edu.cn/p/#/">Tongji University</a>.
  <!-- under the supervision of Prof. <a href="https://scholar.google.com/citations?user=aYKQn88AAAAJ&hl=en&oi=ao">Wei Tian</a>. -->
 
+## News
+- *2025.01* One paper accepted to **ICRA 2025**
+
 {% include_relative _includes/publications.md %}
 
 ## Education
