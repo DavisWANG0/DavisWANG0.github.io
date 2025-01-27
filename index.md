@@ -9,6 +9,7 @@ My previous superviser was Prof. <a href="https://scholar.google.com/citations?h
 
 ## News
 - *2025.01* One paper accepted to **ICRA 2025**.🎉
+- *2024.10* One paper accepted to **WACV 2025**.🎉
 
 {% include_relative _includes/publications.md %}
 
