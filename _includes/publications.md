@@ -16,7 +16,7 @@
     <div class="periodical"><em>IEEE International Conference on Robotics and Automation <strong>(ICRA) </strong>, 2025.</em></div>
     <div class="links">
       <a href="https://arxiv.org/abs/2409.13496" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-      <strong><i style="color:#7b5aa6">arXiv.org</i></strong>
+      <!-- <strong><i style="color:#7b5aa6">arXiv.org</i></strong> -->
     </div>
   </div>
 </div>
