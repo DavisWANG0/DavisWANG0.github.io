@@ -60,6 +60,24 @@
 </div>
 </li>
 
+<li>
+<div class="pub-row">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/wacv25_d2net.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">WACV 2025</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://arxiv.org/abs/2409.13496">Dropout the High-rate Downsampling: A Novel Design Paradigm for UHD Image Restoration </a></div>
+    <div class="author">Chen Wu, <strong>Ling Wang</strong>, Long Peng, Dianjie Lu, Zhuoran Zheng*</div>
+    <div class="periodical"><em>The IEEE/CVF Winter Conference on Applications of Computer Vision <strong>(WACV) </strong>, 2025.</em></div>
+    <div class="links">
+      <a href="https://arxiv.org/abs/2411.06456" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+    </div>
+  </div>
+</div>
+</li>
+
 <br>
 
 </ol>
