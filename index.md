@@ -5,7 +5,7 @@ layout: homepage
 # About Me
 I am Ling WANG (<span style="font-family: 'KaiTi', '楷体', 'STKaiti', '华文楷体';">王凌</span>), an M.Phil student at <a href="https://www.hkust-gz.edu.cn/academics/hubs-and-thrust-areas/information-hub/">AI Thrust, Information Hub</a> of <a href="https://www.hkust-gz.edu.cn/"> The Hong Kong University of Science and Technology, Guangzhou campus</a>. I am fortunate to be advised by Prof. <a href="https://scholar.google.com/citations?user=cVDF1tkAAAAJ&hl=en&oi=ao">Hui Xiong</a> and Prof. <a href="https://scholar.google.com/citations?hl=en&user=AQtqhaYAAAAJ">Lei Zhu</a>. My previous superviser was Prof. <a href="https://scholar.google.com/citations?hl=en&user=SReb2csAAAAJ">Lin Wang</a> and now he transferred to NTU, Singapore. 
 
-I got my B.Eng degree in Software Engineering at <a href="https://en.tongji.edu.cn/p/#/">Tongji University</a>, where I was fortunate to work with Prof. <a href="https://scholar.google.com/citations?user=aYKQn88AAAAJ&hl=en&oi=ao">Wei Tian</a> under <a href="https://github.com/tjiiv-cprg">Institute of Intelligent Vehicles, Tongji University</a>. 
+I got my B.Eng degree in Software Engineering at <a href="https://en.tongji.edu.cn/p/#/">Tongji University</a>, where I was fortunate to work with Prof. <a href="https://scholar.google.com/citations?user=aYKQn88AAAAJ&hl=en&oi=ao">Wei Tian</a> under <a href="https://github.com/tjiiv-cprg">Institute of Intelligent Vehicles @ Tongji University</a>. 
 
 ## News
 - *2025.01* One paper accepted to **ICRA 2025**.🎉
