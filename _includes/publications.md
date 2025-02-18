@@ -68,11 +68,29 @@
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://arxiv.org/abs/2409.13496">Dropout the High-rate Downsampling: A Novel Design Paradigm for UHD Image Restoration </a></div>
+    <div class="title"><a href="https://arxiv.org/abs/2411.06456">Dropout the High-rate Downsampling: A Novel Design Paradigm for UHD Image Restoration </a></div>
     <div class="author">Chen Wu, <strong>Ling Wang</strong>, Long Peng, Dianjie Lu, Zhuoran Zheng*</div>
     <div class="periodical"><em>The IEEE/CVF Winter Conference on Applications of Computer Vision <strong>(WACV) </strong>, 2025.</em></div>
     <div class="links">
       <a href="https://arxiv.org/abs/2411.06456" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+    </div>
+  </div>
+</div>
+</li>
+
+<li>
+<div class="pub-row">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/RS_spvssd.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">Remote Sensing</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://www.mdpi.com/2072-4292/15/1/161">SPV-SSD: An Anchor-free 3-D Single-Stage Detector with Supervised-PointRendering and LiDAR Visibility </a></div>
+    <div class="author">Lingmei Yin, Wei Tian*, <strong>Ling Wang</strong>, Zhiang Wang, Zhuoping Yu</div>
+    <div class="periodical"><em>Remote Sensing.</em></div>
+    <div class="links">
+      <a href="https://www.mdpi.com/2072-4292/15/1/161" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
     </div>
   </div>
 </div>
