@@ -82,15 +82,16 @@
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/img/SPL_AFSMNet.png" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">SPL</abbr>
+    <abbr class="badge">IEEE Signal Process. Lett.</abbr>
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="">Adaptive Feature Selection Modulation Network for Efficient Image Super-Resolution </a></div>
     <div class="author">Chen Wu, <strong>Ling Wang</strong>, Xin Su, Zhuoran Zheng*</div>
-    <div class="periodical"><em>The IEEE Signal Processing Letters <strong>(SPL) </strong>.</em></div>
+    <div class="periodical"><em>The IEEE Signal Processing Letters <strong>(SPL)</strong>, 2025.</em></div>
     <div class="links">
-      <a href="" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <!-- <a href="" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a> -->
+      <strong><i style="color:#7b5aa6">Coming Soon.</i></strong>
     </div>
   </div>
 </div>
@@ -100,13 +101,13 @@
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/img/RS_spvssd.png" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">Remote Sensing</abbr>
+    <abbr class="badge">Remote Sens.</abbr>
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://www.mdpi.com/2072-4292/15/1/161">SPV-SSD: An Anchor-free 3-D Single-Stage Detector with Supervised-PointRendering and LiDAR Visibility </a></div>
     <div class="author">Lingmei Yin, Wei Tian*, <strong>Ling Wang</strong>, Zhiang Wang, Zhuoping Yu</div>
-    <div class="periodical"><em>Remote Sensing. </em></div>
+    <div class="periodical"><em>Remote Sensing, 2023. </em></div>
     <div class="links">
       <a href="https://www.mdpi.com/2072-4292/15/1/161" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
     </div>
