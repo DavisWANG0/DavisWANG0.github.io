@@ -15,14 +15,14 @@ I got my B.Eng degree in <a href="https://cs.tongji.edu.cn/index.htm">Software E
 
 ## Education
 
-- **[Aug. 2023 ‑ Aug. 2025]** M.Phil., Artificial Intelligence, <a href="https://www.hkust-gz.edu.cn/">HKUST</a>, Guangzhou, China
-- **[Jun. 2019 ‑ Jul. 2023]** B.Eng., Software Engineering, <a href="https://en.tongji.edu.cn/p/#/">Tongji University</a>, Shanghai, China
-
+{% include_relative _includes/education.md %}
+<!-- - **[Aug. 2023 ‑ Aug. 2025]** M.Phil., Artificial Intelligence, <a href="https://www.hkust-gz.edu.cn/">HKUST</a>, Guangzhou, China
+- **[Jun. 2019 ‑ Jul. 2023]** B.Eng., Software Engineering, <a href="https://en.tongji.edu.cn/p/#/">Tongji University</a>, Shanghai, China -->
 
 ## Internships
 
-- **[Sep. 2022 ‑ Feb. 2023]** Multi-modal NLP Research Intern, <img src="assets/img/oppo_logo.png" style="height: 30px; vertical-align: middle; margin: 0 0px;"/> <a href="https://www.oppo.com/en/proposal-2022/">OPPO Research Institute</a>, Shenzhen
-- **[Sep. 2021 ‑ Dec. 2021]** Technical Intern, <img src="assets/img/synopsys_logo.png" style="height: 25px; vertical-align: middle; margin: 0;"/> <a href="https://www.synopsys.com/">Synopsys Inc.</a>, Shanghai
+- **[Sep. 2022 ‑ Feb. 2023]** Multi-modal NLP Research Intern, <img src="assets/img/logo_oppo.png" style="height: 30px; vertical-align: middle; margin: 0 0px;"/> <a href="https://www.oppo.com/en/proposal-2022/">OPPO Research Institute</a>, Shenzhen
+- **[Sep. 2021 ‑ Dec. 2021]** Technical Intern, <img src="assets/img/logo_synopsys.png" style="height: 25px; vertical-align: middle; margin: 0;"/> <a href="https://www.synopsys.com/">Synopsys Inc.</a>, Shanghai
 
 {% include_relative _includes/services.md %}
 
