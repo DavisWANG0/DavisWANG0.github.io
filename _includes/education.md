@@ -6,7 +6,7 @@
         </td>
         <td style="border: none; padding-left: 20px;">
             <p style="margin: 2px 0"><b>HKUST, Guangzhou, China</b></p>
-            <p style="margin: 0px 0">Master of Philosophy in Artificial Intelligence</p>
+            <p style="margin: 0px 0"><em>Master of Philosophy in Artificial Intelligence</em></p>
             <p style="margin: 0px 0">Prime Supervisor: Prof. <a href="https://scholar.google.com/citations?user=cVDF1tkAAAAJ&hl=en&oi=ao">Hui Xiong</a></p>
             <p style="margin: 0px 0">Co-Supervisor: Prof. <a href="https://scholar.google.com/citations?hl=en&user=AQtqhaYAAAAJ">Lei Zhu</a></p>
             <p style="margin: 0px 0">Aug. 2023 - </p>
@@ -18,7 +18,7 @@
         </td>             
         <td style="border: none; padding-left: 20px;">
             <p style="margin: 2px 0"><b>Tongji University, Shanghai, China</b></p>
-            <p style="margin: 0px 0">Bachelor of Software Engineering</p>
+            <p style="margin: 0px 0"><em>Bachelor of Software Engineering</em></p>
             <p style="margin: 0px 0">Advisor: Prof. <a href="https://scholar.google.com/citations?user=aYKQn88AAAAJ&hl=en&oi=ao">Wei Tian</a></p>
             <p style="margin: 0px 0">Sep. 2019 - Jul. 2023</p>
         </td>
