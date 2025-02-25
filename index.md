@@ -16,8 +16,6 @@ I got my B.Eng degree in <a href="https://cs.tongji.edu.cn/index.htm">Software E
 ## Education
 
 {% include_relative _includes/education.md %}
-<!-- - **[Aug. 2023 ‑ Aug. 2025]** M.Phil., Artificial Intelligence, <a href="https://www.hkust-gz.edu.cn/">HKUST</a>, Guangzhou, China
-- **[Jun. 2019 ‑ Jul. 2023]** B.Eng., Software Engineering, <a href="https://en.tongji.edu.cn/p/#/">Tongji University</a>, Shanghai, China -->
 
 ## Internships
 
