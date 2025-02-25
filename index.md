@@ -8,6 +8,7 @@ I am Ling WANG (<span style="font-family: 'KaiTi', '楷体', 'STKaiti', '华文�
 I got my B.Eng degree in <a href="https://cs.tongji.edu.cn/index.htm">Software Engineering</a> at <a href="https://en.tongji.edu.cn/p/#/">Tongji University</a>, where I was fortunate to work with Prof. <a href="https://scholar.google.com/citations?user=aYKQn88AAAAJ&hl=en&oi=ao">Wei Tian</a> under <a href="https://github.com/tjiiv-cprg">Institute of Intelligent Vehicles @ Tongji University</a>. 
 
 ## News
+- *2025.02* One paper accepted to **IEEE Signal Processing Letters**.🎉
 - *2025.01* One paper accepted to **ICRA 2025**.🎉
 - *2024.10* One paper accepted to **WACV 2025**.🎉
 
