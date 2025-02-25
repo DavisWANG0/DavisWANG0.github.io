@@ -2,7 +2,7 @@
 	<tbody>
 	<tr>
 		<td width="306">
-			<img src="assets/img/logo_hkust.png" width="150px" style="box-shadow: 4px 4px 8px #ffffff" >	
+			<img src="assets/img/logo_hkust.png" width="100px" style="box-shadow: 4px 4px 8px #ffffff" >	
 			</td>
 			<td>
 			<p><b>HKUST, Guangzhou, China</b></p>
@@ -16,7 +16,7 @@
 	<p></p>
 	<tr>
 		<td width="306">
-			<img src="./assets/img/logo_tongji.png" width="150px" style="box-shadow: 4px 4px 8px #ffffff">
+			<img src="./assets/img/logo_tongji.png" width="100px" style="box-shadow: 4px 4px 8px #ffffff">
 			</td>				
 			<td>
 			<p><b>Tongji University, Shanghai, China</b></p>
@@ -26,5 +26,6 @@
 	</tr>
     </tbody>
 </table>
+
 <!-- - **[Aug. 2023 ‑ Aug. 2025]** M.Phil., Artificial Intelligence, <a href="https://www.hkust-gz.edu.cn/">HKUST</a>, Guangzhou, China
 - **[Jun. 2019 ‑ Jul. 2023]** B.Eng., Software Engineering, <a href="https://en.tongji.edu.cn/p/#/">Tongji University</a>, Shanghai, China -->
