@@ -87,7 +87,7 @@
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="">Adaptive Feature Selection Modulation Network for Efficient Image Super-Resolution </a></div>
+    <div class="title"><a href="https://ieeexplore.ieee.org/document/10909534">Adaptive Feature Selection Modulation Network for Efficient Image Super-Resolution </a></div>
     <div class="author">Chen Wu, <strong>Ling Wang</strong>, Xin Su, Zhuoran Zheng*</div>
     <div class="periodical"><em>The IEEE Signal Processing Letters <strong>(SPL)</strong>, 2025.</em></div>
     <div class="links">
