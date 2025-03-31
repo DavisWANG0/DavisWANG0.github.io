@@ -25,4 +25,6 @@ I got my B.Eng degree in <a href="https://cs.tongji.edu.cn/index.htm">Software E
 
 {% include_relative _includes/services.md %}
 
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=bdbdbd&w=198&t=tt&d=VhOGL8yR6vLDt7zZXLStdEYZ9uqXoNHV3VRjVwZlFUw&co=ffffff&cmo=b3e5fc&cmn=03a9f4&ct=9e9e9e'></script>
+---
+
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=080808&w=a&t=tt&d=VhOGL8yR6vLDt7zZXLStdEYZ9uqXoNHV3VRjVwZlFUw&co=ffffff&cmo=b3e5fc&cmn=03a9f4&ct=9e9e9e'></script>
