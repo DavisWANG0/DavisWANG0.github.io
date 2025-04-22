@@ -9,6 +9,10 @@ layout: homepage
   font-style: normal;
   font-display: swap;
 }
+.avatar-img {
+  max-width: 200px !important;
+  height: auto !important;
+}
 </style>
 # About Me
 I am Ling WANG (<span style="font-family: 'MyKaiTi','KaiTi', '楷体';">王凌</span>), an M.Phil student at <a href="https://www.hkust-gz.edu.cn/academics/hubs-and-thrust-areas/information-hub/">AI Thrust, Information Hub</a> of <a href="https://www.hkust-gz.edu.cn/"> The Hong Kong University of Science and Technology, Guangzhou campus</a>. I am fortunate to be advised by Prof. <a href="https://scholar.google.com/citations?user=cVDF1tkAAAAJ&hl=en&oi=ao">Hui Xiong</a> and Prof. <a href="https://scholar.google.com/citations?hl=en&user=AQtqhaYAAAAJ">Lei Zhu</a>. My previous supervisor was Prof. <a href="https://scholar.google.com/citations?hl=en&user=SReb2csAAAAJ">Lin Wang</a> and now he transferred to NTU, Singapore. 
