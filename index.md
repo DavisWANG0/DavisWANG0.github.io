@@ -10,7 +10,7 @@ layout: homepage
   font-display: swap;
 }
 .avatar-img {
-  max-width: 150px !important;
+  max-width: 50px !important;
   height: auto !important;
 }
 </style>
