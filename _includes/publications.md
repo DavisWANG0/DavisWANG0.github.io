@@ -32,7 +32,7 @@
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://arxiv.org/abs/2409.14021">BrainDreamer: Towards Reasoning-Coherent and Controllable Image Reconstruction from EEG Brain Signals via Language Guidance</a></div>
-    <div class="author"><strong>Ling Wang</strong>, Chen Wu, Lin Wang*</div>
+    <div class="author"><strong>Ling Wang<sup>†</sup></strong>, Chen Wu<sup>†</sup>, Lin Wang*</div>
     <div class="periodical"><em>arXiv <strong>(arXiv)</strong>, Sep. 2024.</em></div>
     <div class="links">
       <a href="https://arxiv.org/abs/2409.14021" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
