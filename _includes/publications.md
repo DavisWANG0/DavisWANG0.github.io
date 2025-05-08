@@ -17,7 +17,7 @@
     <div class="links">
       <a href="https://arxiv.org/abs/2409.13496" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <a href="../assets/video/ICRA25_4264_VI_i.mp4" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Demo</a>
-      <a href="https://ras.papercept.net/conferences/conferences/ICRA25/program/ICRA25_ContentListWeb_3.html#thet1_07" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">5 Min Oral Session</a>
+      <a href="https://ras.papercept.net/conferences/conferences/ICRA25/program/ICRA25_ContentListWeb_3.html#thet1_07" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Oral Presentation</a>
     </div>
   </div>
 </div>

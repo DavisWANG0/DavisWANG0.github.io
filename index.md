@@ -17,7 +17,7 @@ I got my B.Eng degree in <a href="https://cs.tongji.edu.cn/index.htm">Software E
 
 ## News
 - *2025.02* One paper accepted to **IEEE Signal Processing Letters**.🎉
-- *2025.01* One paper accepted to **ICRA 2025**.🎉
+- *2025.01* One paper accepted to **ICRA 2025** as \textcolor{red}{Oral Presentation}.🎉
 - *2024.10* One paper accepted to **WACV 2025**.🎉
 
 {% include_relative _includes/publications.md %}
