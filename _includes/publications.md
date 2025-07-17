@@ -93,7 +93,7 @@
     <div class="periodical"><em>The IEEE Signal Processing Letters <strong>(SPL)</strong>, 2025.</em></div>
     <div class="links">
       <a href="https://ieeexplore.ieee.org/document/10909534" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-      <!-- <strong><i style="color:#7b5aa6">Coming Soon.</i></strong> -->
+      <a href="https://github.com/DavisWANG0/AFSMNet" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">CODE</a>
     </div>
   </div>
 </div>
