@@ -10,10 +10,6 @@
             <p style="margin: 0px 0">Prime Supervisor: Prof. <a href="https://scholar.google.com/citations?user=cVDF1tkAAAAJ&hl=en&oi=ao">Hui Xiong</a></p>
             <p style="margin: 0px 0">Co-Supervisor: Prof. <a href="https://scholar.google.com/citations?hl=en&user=AQtqhaYAAAAJ">Lei Zhu</a></p>
             <p style="margin: 0px 0">Aug. 2023 - </p>
-            <p style="margin: 0px 0"><em>The "Bridge" Statup Program supported by Lab of Future Technology, College of Future Technology</em></p>
-            <p style="margin: 0px 0"><b>MMBox: Localized Entity Multimodal Agent</b></p>
-            <p style="margin: 0px 0">Advisor: Prof. <a href="https://scholar.google.com.hk/citations?user=1gSbcYoAAAAJ&hl=en">Jia Li</a></p>
-            <p style="margin: 0px 0">Sep. 2025 - </p>
         </td>
     </tr>
     <tr style="border: none;">
