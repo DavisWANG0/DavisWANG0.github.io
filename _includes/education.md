@@ -7,7 +7,7 @@
         <td style="border: none; padding-left: 20px;">
             <p style="margin: 2px 0"><b>HKUST, Guangzhou, China</b></p>
             <p style="margin: 0px 0"><em>Master of Philosophy in Artificial Intelligence</em></p>
-            <p style="margin: 0px 0">Prime Supervisor: Prof. <a href="https://scholar.google.com/citations?user=cVDF1tkAAAAJ&hl=en&oi=ao">Hui Xiong</a>, IEEE/AAAI/AAAS Fellow</p>
+            <p style="margin: 0px 0">Prime Supervisor: Prof. <a href="https://scholar.google.com/citations?user=cVDF1tkAAAAJ&hl=en&oi=ao">Hui Xiong</a></p>
             <p style="margin: 0px 0">Co-Supervisor: Prof. <a href="https://scholar.google.com/citations?hl=en&user=AQtqhaYAAAAJ">Lei Zhu</a></p>
             <p style="margin: 0px 0">Aug. 2023 - </p>
         </td>
