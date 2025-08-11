@@ -7,8 +7,8 @@
         <td style="border: none; padding-left: 20px;">
             <p style="margin: 2px 0"><b>The 2025 "Bridge" Startup Program</b></p>
             <p style="margin: 2px 0"><b><em>MMBox: Localized Multimodal Agent Entity</em></b></p>
-            <p style="margin: 0px 0; font-size: 90%;">supported and funded <span style="font-size: 90%;">(RMB 300,000 grant)</span> by</p>
-            <p style="margin: 0px 0"><em>HKUST, College of Future Technology, Lab of Future Technology</em></p>
+            <p style="margin: 0px 0; font-size: 90%;"><em>supported and funded <span style="font-size: 90%;">(RMB 300,000 grant)</span> by</em></p>
+            <p style="margin: 2px 0"><b>HKUST, College of Future Technology, Lab of Future Technology</b></p>
             <p style="margin: 0px 0">Advisor: Prof. <a href="https://scholar.google.com.hk/citations?user=1gSbcYoAAAAJ&hl=en">Jia Li</a></p>
             <p style="margin: 0px 0">Sep. 2025 - Aug. 2026</p>
         </td>
