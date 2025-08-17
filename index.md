@@ -32,8 +32,9 @@ I got my B.Eng degree in <a href="https://cs.tongji.edu.cn/index.htm">Software E
 
 ## Internships
 
-- **[Sep. 2022 ‑ Feb. 2023]** Multi-modal NLP Research Intern, <img src="assets/img/logo_oppo.png" style="height: 30px; vertical-align: middle; margin: 0 0px;"/> <a href="https://www.oppo.com/en/proposal-2022/">OPPO Research Institute</a>, Shenzhen
-- **[Sep. 2021 ‑ Dec. 2021]** Technical Intern, <img src="assets/img/logo_synopsys.png" style="height: 25px; vertical-align: middle; margin: 0;"/> <a href="https://www.synopsys.com/">Synopsys Inc.</a>, Shanghai
+{% include_relative _includes/internships.md %}
+
+## Services
 
 {% include_relative _includes/services.md %}
 
