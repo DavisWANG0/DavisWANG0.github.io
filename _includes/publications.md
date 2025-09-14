@@ -11,11 +11,11 @@
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://arxiv.org/abs/2409.13496">DAP-LED: Learning Degradation-Aware Priors with CLIP for Joint Low-light Enhancement and Deblurring </a></div>
+    <div class="title"><a href="https://ieeexplore.ieee.org/abstract/document/11128232/">DAP-LED: Learning Degradation-Aware Priors with CLIP for Joint Low-light Enhancement and Deblurring </a></div>
     <div class="author"><strong>Ling Wang</strong>, Chen Wu, Lin Wang*</div>
     <div class="periodical"><em>The IEEE International Conference on Robotics and Automation <strong>(ICRA) </strong>, 2025.</em></div>
     <div class="links">
-      <a href="https://arxiv.org/abs/2409.13496" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://ieeexplore.ieee.org/abstract/document/11128232/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <a href="../assets/video/ICRA25_4264_VI_i.mp4" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Demo</a>
       <a href="https://ras.papercept.net/conferences/conferences/ICRA25/program/ICRA25_ContentListWeb_3.html#thet1_07" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Oral Presentation</a>
     </div>
