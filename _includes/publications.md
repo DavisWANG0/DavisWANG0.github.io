@@ -11,11 +11,11 @@
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://ieeexplore.ieee.org/abstract/document/11128232/">DAP-LED: Learning Degradation-Aware Priors with CLIP for Joint Low-light Enhancement and Deblurring </a></div>
+    <div class="title"><a href="https://doi.org/10.1109/ICRA55743.2025.11128232">DAP-LED: Learning Degradation-Aware Priors with CLIP for Joint Low-light Enhancement and Deblurring </a></div>
     <div class="author"><strong>Ling Wang</strong>, Chen Wu, Lin Wang*</div>
     <div class="periodical"><em>The IEEE International Conference on Robotics and Automation <strong>(ICRA) </strong>, 2025.</em></div>
     <div class="links">
-      <a href="https://ieeexplore.ieee.org/abstract/document/11128232/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://doi.org/10.1109/ICRA55743.2025.11128232" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <a href="../assets/video/ICRA25_4264_VI_i.mp4" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Demo</a>
       <a href="https://ras.papercept.net/conferences/conferences/ICRA25/program/ICRA25_ContentListWeb_3.html#thet1_07" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Oral Presentation</a>
     </div>
@@ -68,11 +68,11 @@
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://arxiv.org/abs/2411.06456">Dropout the High-rate Downsampling: A Novel Design Paradigm for UHD Image Restoration </a></div>
+    <div class="title"><a href="https://doi.org/10.1109/WACV61041.2025.00238">Dropout the High-rate Downsampling: A Novel Design Paradigm for UHD Image Restoration </a></div>
     <div class="author">Chen Wu, <strong>Ling Wang</strong>, Long Peng, Dianjie Lu, Zhuoran Zheng*</div>
     <div class="periodical"><em>The IEEE/CVF Winter Conference on Applications of Computer Vision <strong>(WACV) </strong>, 2025.</em></div>
     <div class="links">
-      <a href="https://openaccess.thecvf.com/content/WACV2025/papers/Wu_Dropout_the_High-Rate_Downsampling_A_Novel_Design_Paradigm_for_UHD_WACV_2025_paper.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://doi.org/10.1109/WACV61041.2025.00238" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <a href="https://openaccess.thecvf.com/content/WACV2025/html/Wu_Dropout_the_High-Rate_Downsampling_A_Novel_Design_Paradigm_for_UHD_WACV_2025_paper.html" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Links</a>
     </div>
   </div>
@@ -87,11 +87,11 @@
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://ieeexplore.ieee.org/document/10909534">Adaptive Feature Selection Modulation Network for Efficient Image Super-Resolution </a></div>
+    <div class="title"><a href="https://doi.org/10.1109/LSP.2025.3547669">Adaptive Feature Selection Modulation Network for Efficient Image Super-Resolution </a></div>
     <div class="author">Chen Wu, <strong>Ling Wang</strong>, Xin Su, Zhuoran Zheng*</div>
     <div class="periodical"><em>The IEEE Signal Processing Letters <strong>(SPL)</strong>, 2025.</em></div>
     <div class="links">
-      <a href="https://ieeexplore.ieee.org/document/10909534" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://doi.org/10.1109/LSP.2025.3547669" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <a href="https://github.com/DavisWANG0/AFSMNet" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">CODE</a>
     </div>
   </div>
