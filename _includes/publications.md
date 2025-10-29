@@ -2,28 +2,12 @@
 
 <div class="publications">
 <style>
-  /* .project-lead{
-    display:inline-block;
-    padding:2px 6px;
-    margin-left:6px;
-    border-radius:4px;
-    background:#4CAF50;
-    color:#fff;
-    font-size:0.75rem;
-    font-weight:700;
-    line-height:1;
-    vertical-align:baseline;
-    white-space:nowrap;
-  }
-  @media (prefers-color-scheme: dark){
-    .project-lead{ background:#66bb6a; color:#fff; }
-  } */
 .project-lead {
   display:inline-flex;
   align-items:center;
   gap:4px;
   padding:2px 8px;
-  margin-left:6px;
+  margin-left:2px;
   border-radius:6px;
   background:linear-gradient(90deg,#43a047,#81c784);
   color:#fff;
@@ -109,7 +93,8 @@
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://arxiv.org/pdf/2510.23981">TeleEgo: Benchmarking Egocentric AI Assistants in the Wild</a></div>
-    <div class="author">Jiaqi Yan<sup>†</sup>, Ruilong Ren<sup>†</sup>, Jingren Liu<sup>†</sup>, Shuning Xu, Ling Wang, ..., Xiangyu Chen<span class="project-lead">#Project Lead</span>, Changzhi Sun, Jixiang Luo, Dell Zhang#, Hao Sun, Chi Zhang, Xuelong Li*</div>
+    <div class="author">Jiaqi Yan<sup>†</sup>, Ruilong Ren<sup>†</sup>, Jingren Liu<sup>†</sup>, Shuning Xu, Ling Wang, ..., Xiangyu Chen<span class="project-lead">
+    <svg viewBox="0 0 24 24"><path d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"/></svg>#Project Lead</span>, Changzhi Sun, Jixiang Luo, Dell Zhang#, Hao Sun, Chi Zhang, Xuelong Li*</div>
     <div class="periodical"><em>arXiv <strong>(arXiv)</strong>, Oct. 2025.</em></div>
     <div class="links">
       <a href="https://arxiv.org/pdf/2510.23981" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
