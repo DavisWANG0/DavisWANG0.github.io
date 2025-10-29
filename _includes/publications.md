@@ -1,6 +1,25 @@
 <h2 id="publications" style="margin: 2px 0px -15px;">Selected Publications</h2>
 
 <div class="publications">
+<style>
+  /* Inline fall-back so the Project Lead badge works even before Sass is rebuilt */
+  .project-lead{
+    display:inline-block;
+    padding:2px 6px;
+    margin-left:6px;
+    border-radius:4px;
+    background:#4CAF50;
+    color:#fff;
+    font-size:0.75rem;
+    font-weight:700;
+    line-height:1;
+    vertical-align:baseline;
+    white-space:nowrap;
+  }
+  @media (prefers-color-scheme: dark){
+    .project-lead{ background:#66bb6a; color:#fff; }
+  }
+</style>
 <ol class="bibliography">
 
 <li>
