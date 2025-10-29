@@ -70,7 +70,7 @@
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://arxiv.org/pdf/2510.23981">TeleEgo: Benchmarking Egocentric AI Assistants in the Wild</a></div>
     <div class="author">Jiaqi Yan<sup>†</sup>, Ruilong Ren<sup>†</sup>, Jingren Liu<sup>†</sup>, Shuning Xu, <strong>Ling Wang</strong>, ..., Xiangyu Chen<span class="project-lead">#Project Lead</span>, Changzhi Sun, Jixiang Luo, Dell Zhang*, Hao Sun, Chi Zhang, Xuelong Li*</div>
-    <div class="periodical"><em>arXiv <strong>(arXiv)</strong>, Oct. 2025.</em></div>
+    <div class="periodical"><em>arXiv, Oct. 2025.</em></div>
     <div class="links">
       <a href="https://arxiv.org/pdf/2510.23981" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <a href="https://github.com/Programmergg/TeleEgo" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
@@ -89,7 +89,7 @@
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://arxiv.org/pdf/2407.01884">EIT-1M: One Million EEG-Image-Text Pairs for Human Visual-textual Recognition and More</a></div>
     <div class="author">Xu Zheng<sup>†</sup>, <strong>Ling Wang<sup>†</sup></strong>, Kanghao Chen, Yuanhuiyi Lyu, Jiazhou Zhou, Lin Wang*</div>
-    <div class="periodical"><em>arXiv <strong>(arXiv)</strong>, Jul. 2024.</em></div>
+    <div class="periodical"><em>arXiv, Jul. 2024.</em></div>
     <div class="links">
       <a href="https://arxiv.org/pdf/2407.01884" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <strong><i style="color:#7b5aa6">arXiv.org</i></strong>
