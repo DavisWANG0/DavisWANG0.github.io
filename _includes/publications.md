@@ -33,7 +33,7 @@
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://arxiv.org/abs/2409.14021">BrainDreamer: Towards Reasoning-Coherent and Controllable Image Reconstruction from EEG Brain Signals via Language Guidance</a></div>
     <div class="author"><strong>Ling Wang<sup>†</sup></strong>, Chen Wu<sup>†</sup>, Lin Wang*</div>
-    <div class="periodical"><em>IEEE Transactions on Multimedia <strong>(TMM) </strong>, Oct. 2025.</em></div>
+    <div class="periodical"><em>IEEE Transactions on Multimedia <strong>(TMM) </strong>, AQ Oct. 2025.</em></div>
     <div class="links">
       <a href="https://arxiv.org/abs/2409.14021" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
     </div>
@@ -55,6 +55,26 @@
     <div class="links">
       <a href="https://arxiv.org/pdf/2407.01884" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <strong><i style="color:#7b5aa6">arXiv.org</i></strong>
+    </div>
+  </div>
+</div>
+</li>
+
+<li>
+<div class="pub-row">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/TelEgo.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">arXiv</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://arxiv.org/pdf/2510.23981">TeleEgo: Benchmarking Egocentric AI Assistants in the Wild</a></div>
+    <div class="author">Jiaqi Yan<sup>†</sup>, Ruilong Ren<sup>†</sup>, Jingren Liu<sup>†</sup>, Shuning Xu, Ling Wang, ..., Xiangyu Chen#<span class="project-lead">Project Lead</span>, Changzhi Sun, Jixiang Luo, Dell Zhang#, Hao Sun, Chi Zhang, Xuelong Li*</div>
+    </div>
+    <div class="periodical"><em>arXiv <strong>(arXiv)</strong>, Oct. 2025.</em></div>
+    <div class="links">
+      <a href="https://arxiv.org/pdf/2510.23981" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://github.com/Programmergg/TeleEgo" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
     </div>
   </div>
 </div>
@@ -92,7 +112,7 @@
     <div class="periodical"><em>The IEEE Signal Processing Letters <strong>(SPL)</strong>, 2025.</em></div>
     <div class="links">
       <a href="https://doi.org/10.1109/LSP.2025.3547669" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-      <a href="https://github.com/DavisWANG0/AFSMNet" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">CODE</a>
+      <a href="https://github.com/DavisWANG0/AFSMNet" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
     </div>
   </div>
 </div>

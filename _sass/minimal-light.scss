@@ -747,3 +747,20 @@ screen and (max-width: 480px) {
   display: none;
   font-family: monospace;
 }
+
+.project-lead {
+  background-color: #4CAF50; /* Green background */
+  color: white;
+  padding: 2px 6px;
+  border-radius: 4px;
+  font-size: 85%;
+  font-weight: bold;
+  margin-left: 4px;
+}
+
+@media (prefers-color-scheme: dark) {
+  .project-lead {
+    background-color: #66bb6a; /* Lighter green for dark mode */
+    color: #1b1b1b;
+  }
+}
