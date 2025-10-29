@@ -756,6 +756,9 @@ screen and (max-width: 480px) {
   font-size: 85%;
   font-weight: bold;
   margin-left: 4px;
+  display: inline-block;
+  line-height: 1;
+  vertical-align: text-bottom;
 }
 
 @media (prefers-color-scheme: dark) {
