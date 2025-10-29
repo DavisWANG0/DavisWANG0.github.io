@@ -92,7 +92,7 @@
     <div class="periodical"><em>arXiv, Jul. 2024.</em></div>
     <div class="links">
       <a href="https://arxiv.org/pdf/2407.01884" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-      <strong><i style="color:#7b5aa6">arXiv.org</i></strong>
+      <!-- <strong><i style="color:#7b5aa6">arXiv.org</i></strong> -->
     </div>
   </div>
 </div>
