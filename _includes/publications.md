@@ -2,8 +2,7 @@
 
 <div class="publications">
 <style>
-  /* Inline fall-back so the Project Lead badge works even before Sass is rebuilt */
-  .project-lead{
+  /* .project-lead{
     display:inline-block;
     padding:2px 6px;
     margin-left:6px;
@@ -18,7 +17,29 @@
   }
   @media (prefers-color-scheme: dark){
     .project-lead{ background:#66bb6a; color:#fff; }
-  }
+  } */
+.project-lead {
+  display:inline-flex;
+  align-items:center;
+  gap:4px;
+  padding:2px 8px;
+  margin-left:6px;
+  border-radius:6px;
+  background:linear-gradient(90deg,#43a047,#81c784);
+  color:#fff;
+  font-size:0.75rem;
+  font-weight:700;
+  line-height:1;
+  box-shadow:0 1px 2px rgba(0,0,0,0.15);
+}
+.project-lead svg {
+  width:12px;
+  height:12px;
+  fill:white;
+}
+@media (prefers-color-scheme: dark){
+  .project-lead {background:linear-gradient(90deg,#66bb6a,#a5d6a7);}
+}
 </style>
 <ol class="bibliography">
 
@@ -88,7 +109,7 @@
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://arxiv.org/pdf/2510.23981">TeleEgo: Benchmarking Egocentric AI Assistants in the Wild</a></div>
-    <div class="author">Jiaqi Yan<sup>†</sup>, Ruilong Ren<sup>†</sup>, Jingren Liu<sup>†</sup>, Shuning Xu, Ling Wang, ..., Xiangyu Chen# <span class="project-lead">Project Lead</span>, Changzhi Sun, Jixiang Luo, Dell Zhang#, Hao Sun, Chi Zhang, Xuelong Li*</div>
+    <div class="author">Jiaqi Yan<sup>†</sup>, Ruilong Ren<sup>†</sup>, Jingren Liu<sup>†</sup>, Shuning Xu, Ling Wang, ..., Xiangyu Chen<span class="project-lead">#Project Lead</span>, Changzhi Sun, Jixiang Luo, Dell Zhang#, Hao Sun, Chi Zhang, Xuelong Li*</div>
     <div class="periodical"><em>arXiv <strong>(arXiv)</strong>, Oct. 2025.</em></div>
     <div class="links">
       <a href="https://arxiv.org/pdf/2510.23981" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
