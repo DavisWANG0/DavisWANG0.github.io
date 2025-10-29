@@ -20,8 +20,9 @@ I got my B.Eng degree in <a href="https://cs.tongji.edu.cn/index.htm">Software E
 - *2025.10* One paper accepted to **IEEE Transactions on Multimedia (TMM)**.🎉
 - *2025.10* One survey accepted to **AI Flow (Vicinagearth)**.🎉
 - *2025.02* One paper accepted to **IEEE Signal Processing Letters (SPL)**.🎉
-- *2025.01* One paper accepted to **ICRA 2025** as <span style="color: red;">Oral Presentation</span>.🎉
+- *2025.01* One paper accepted to **ICRA 2025** as Oral Presentation.🎉
 - *2024.10* One paper accepted to **WACV 2025**.🎉
+<!-- <span style="color: red;"></span> -->
 
 {% include_relative _includes/publications.md %}
 
