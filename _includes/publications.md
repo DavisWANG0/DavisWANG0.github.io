@@ -73,7 +73,8 @@
     <div class="periodical"><em>arXiv, Oct. 2025.</em></div>
     <div class="links">
       <a href="https://arxiv.org/pdf/2510.23981" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-      <a href="https://github.com/Programmergg/TeleEgo" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+      <a href="https://github.com/TeleAI-UAGI/TeleEgo" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+      <a href="https://programmergg.github.io/jrliu.github.io/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Page</a>
     </div>
   </div>
 </div>
