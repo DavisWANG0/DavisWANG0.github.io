@@ -145,11 +145,11 @@
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://link.springer.com/article/10.1007/s44336-025-00017-w?utm_source=rct_congratemailt">Towards training-free long video understanding: methods, benchmarks, and open challenges </a></div>
+    <div class="title"><a href="https://doi.org/10.1007/s44336-025-00017-w">Towards training-free long video understanding: methods, benchmarks, and open challenges </a></div>
     <div class="author">Jingren Liu, Yun Wang, Long Zhang, Yiheng Wang, Shuning Xu, <strong>Ling Wang</strong>, Jiaqi Yan, Dell Zhang & Xiangyu Chen*</div>
     <div class="periodical"><em>AI Flow (Vicinagearth), 2025. </em></div>
     <div class="links">
-      <a href="https://link.springer.com/article/10.1007/s44336-025-00017-w?utm_source=rct_congratemailt" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://doi.org/10.1007/s44336-025-00017-w" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
     </div>
   </div>
 </div>
