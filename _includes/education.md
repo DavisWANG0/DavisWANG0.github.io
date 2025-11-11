@@ -1,5 +1,17 @@
 <table id="tbPublications" width="100%" style="border: none;">
     <tbody style="border: none;">
+        <tr style="border: none;">
+        <td width="200" style="vertical-align: middle; padding: 20px 0; border: none;">
+            <img src="assets/img/logo_polyu.png" width="70px" style="box-shadow: 4px 4px 8px #ffffff; display: block; margin: auto;">    
+        </td>
+        <td style="border: none; padding-left: 20px;">
+            <p style="margin: 2px 0"><b>Hong Kong Polytechnic University, Hong Kong SAR</b></p>
+            <p style="margin: 0px 0"><em>Doctor of Philosophy in Data Science and Artificial Intelligence</em></p>
+            <p style="margin: 0px 0">Prime Supervisor: Prof. <a href="https://www.jibinwu.com/">Jibin Wu</a> </p>
+            <p style="margin: 0px 0">Co-Supervisor: Prof. <a href="https://scholar.google.com/citations?user=LFngSp0AAAAJ&hl=en">TAN Kay Chen</a> (<a href="https://www.polyu.edu.hk/dsai/people/academic-staff/tankaychen/">IEEE Fellow</a>)</p>
+            <p style="margin: 0px 0">. 2026 - Oct. 2025</p>
+        </td>
+    </tr>
     <tr style="border: none;">
         <td width="200" style="vertical-align: middle; padding: 20px 0; border: none;">
             <img src="assets/img/logo_hkust.png" width="70px" style="box-shadow: 4px 4px 8px #ffffff; display: block; margin: auto;">    
