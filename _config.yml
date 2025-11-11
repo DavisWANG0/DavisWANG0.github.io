@@ -2,13 +2,14 @@ url: "DavisWANG0.github.io"
 # Basic Information
 title: Ling WANG
 # subtitle:
-# position: Research Scientist
-# subposition: Chair of the Chinese Student and Scholar Association (CSSA)
+
+affiliation: The Hong Kong Polytechnic University
+subaffiliation: DSAI Department  
+affiliation_link: https://www.polyu.edu.hk/
+subaffiliation_link: https://www.polyu.edu.hk/dsai/
+position: Algorithm Intern
+subposition: ByteDance, TikTok
 # subposition_link: https://nyu-medicine-cssa.github.io
-affiliation: Hong Kong University of Science and Technology (HKUST)
-subaffiliation: AI Thrust  
-affiliation_link: https://www.hkust-gz.edu.cn/
-subaffiliation_link: https://www.hkust-gz.edu.cn/academics/hubs-and-thrust-areas/information-hub/artificial-intelligence/
 email: davis0wang@outlook.com
 # address: 100 Bayview Dr, Mountain View, CA 94043
 # address_link: https://goo.gl/maps/aQZfmiKjQmqbDsVY9
@@ -16,7 +17,7 @@ email: davis0wang@outlook.com
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
 keywords: Ling WANG, Davis, Computer Vision, Low-level Vision, Multimodal.
-description: Computer Vision, Multimodal | M.Phil in AI @ HKUST | B.Eng in SE @ Tongji University
+description: Computer Vision, Multimodal | Ph.D. in DSAI @ PolyU | M.Phil in AI @ HKUST | B.Eng in SE @ Tongji University
 canonical: https://daviswang0.github.io/
 # canonical: https://minimal-light-theme.yliu.me/
 
