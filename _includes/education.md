@@ -7,7 +7,7 @@
         <td style="border: none; padding-left: 20px;">
             <p style="margin: 2px 0"><b>Hong Kong Polytechnic University, Hong Kong SAR</b></p>
             <p style="margin: 0px 0"><em>Doctor of Philosophy in Data Science and Artificial Intelligence</em></p>
-            <p style="margin: 0px 0">Chief Supervisor: Prof. <a href="https://www.jibinwu.com/">Jibin Wu</a></p>
+            <p style="margin: 0px 0">Chief Supervisor: Prof. <a href="https://www.jibinwu.com/">Jibin Wu</a> (<a href="https://www.mindlab-ai.com/">MIND Lab</a>)</p>
             <p style="margin: 0px 0">Co-Supervisor: Prof. <a href="https://scholar.google.com/citations?user=LFngSp0AAAAJ&hl=en">TAN Kay Chen</a> (<a href="https://www.polyu.edu.hk/dsai/people/academic-staff/tankaychen/">IEEE Fellow</a>)</p>
             <p style="margin: 0px 0">Jan. 2026 - </p>
         </td>
