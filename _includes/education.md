@@ -2,7 +2,7 @@
     <tbody style="border: none;">
         <tr style="border: none;">
         <td width="200" style="vertical-align: middle; padding: 20px 0; border: none;">
-            <img src="assets/img/logo_polyu.png" width="70px" style="box-shadow: 4px 4px 8px #ffffff; display: block; margin: auto;">    
+            <img src="assets/img/logo_polyu.png" width="100px" style="box-shadow: 4px 4px 8px #ffffff; display: block; margin: auto;">    
         </td>
         <td style="border: none; padding-left: 20px;">
             <p style="margin: 2px 0"><b>Hong Kong Polytechnic University, Hong Kong SAR</b></p>
