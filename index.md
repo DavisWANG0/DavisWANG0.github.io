@@ -18,9 +18,9 @@ I got my M.Phil degree from <a href="https://www.hkust-gz.edu.cn/academics/hubs-
 I got my B.Eng degree in <a href="https://cs.tongji.edu.cn/index.htm">Software Engineering</a> at <a href="https://en.tongji.edu.cn/p/#/">Tongji University</a>, where I was fortunate to work with Prof. <a href="https://scholar.google.com/citations?user=aYKQn88AAAAJ&hl=en&oi=ao">Wei Tian</a> at the <a href="https://github.com/tjiiv-cprg">Institute of Intelligent Vehicles @ Tongji University</a>. 
 
 ## News
-- *2025.11* One paper accepted to **IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)**.🎉
+- *2025.11* One paper accepted to **IEEE Trans. Circuits Syst. Video Technol. (TCSVT)**.🎉
 - *2025.10* One Benchmark **TeleEgo** has beeen released.🎉
-- *2025.10* One paper accepted to **IEEE Transactions on Multimedia (TMM)**.🎉
+- *2025.10* One paper accepted to **IEEE Trans. Multimedia (TMM)**.🎉
 - *2025.10* One survey accepted to **AI Flow (Vicinagearth)**.🎉
 - *2025.02* One paper accepted to **IEEE Signal Processing Letters (SPL)**.🎉
 - *2025.01* One paper accepted to **ICRA 2025** as Oral Presentation.🎉
