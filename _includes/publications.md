@@ -68,7 +68,7 @@
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="">Ultra-High-Definition Image Restoration via High Frequency Enhanced Transformer</a></div>
+    <div class="title"><a href="https://doi.org/10.1109/TCSVT.2025.3636011">Ultra-High-Definition Image Restoration via High Frequency Enhanced Transformer</a></div>
     <div class="author">Chen Wu, <strong>Ling Wang</strong>, Zhuoran Zheng, Weidong Jiang, Yuning Cui* and Jingyuan Xia</div>
     <div class="periodical"><em>IEEE Transactions on Circuits and Systems for Video Technology <strong>(TCSVT) </strong>, Nov. 2025.</em></div>
     <div class="links">
