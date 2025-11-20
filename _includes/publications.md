@@ -81,6 +81,25 @@
 <li>
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/EIT-1M.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">arXiv</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://arxiv.org/pdf/2407.01884">EIT-1M: One Million EEG-Image-Text Pairs for Human Visual-textual Recognition and More</a></div>
+    <div class="author">Xu Zheng<sup>†</sup>, <strong>Ling Wang<sup>†</sup></strong>, Kanghao Chen, Yuanhuiyi Lyu, Jiazhou Zhou, Lin Wang*</div>
+    <div class="periodical"><em>arXiv, Jul. 2024.</em></div>
+    <div class="links">
+      <a href="https://arxiv.org/pdf/2407.01884" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <!-- <strong><i style="color:#7b5aa6">arXiv.org</i></strong> -->
+    </div>
+  </div>
+</div>
+</li>
+
+<li>
+<div class="pub-row">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/img/TelEgo.png" class="teaser img-fluid z-depth-1">
     <abbr class="badge">arXiv</abbr>
   </div>
@@ -93,25 +112,6 @@
       <a href="https://arxiv.org/pdf/2510.23981" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <a href="https://github.com/TeleAI-UAGI/TeleEgo" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
       <a href="https://programmergg.github.io/jrliu.github.io/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Page</a>
-    </div>
-  </div>
-</div>
-</li>
-
-<li>
-<div class="pub-row">
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/EIT-1M.png" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">arXiv</abbr>
-  </div>
-
-  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://arxiv.org/pdf/2407.01884">EIT-1M: One Million EEG-Image-Text Pairs for Human Visual-textual Recognition and More</a></div>
-    <div class="author">Xu Zheng<sup>†</sup>, <strong>Ling Wang<sup>†</sup></strong>, Kanghao Chen, Yuanhuiyi Lyu, Jiazhou Zhou, Lin Wang*</div>
-    <div class="periodical"><em>arXiv, Jul. 2024.</em></div>
-    <div class="links">
-      <a href="https://arxiv.org/pdf/2407.01884" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-      <!-- <strong><i style="color:#7b5aa6">arXiv.org</i></strong> -->
     </div>
   </div>
 </div>
