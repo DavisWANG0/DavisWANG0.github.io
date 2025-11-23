@@ -72,6 +72,9 @@
     <div class="author">Chen Wu, <strong>Ling Wang</strong>, Zhuoran Zheng, Weidong Jiang, Yuning Cui* and Jingyuan Xia</div>
     <div class="periodical"><em>IEEE Transactions on Circuits and Systems for Video Technology <strong>(TCSVT) </strong>, Nov. 2025.</em></div>
     <div class="links">
+      <a href="https://ieeexplore.ieee.org/document/11263975" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+    </div>
+    <div class="links">
       <a href="https://github.com/DavisWANG0/HiFormer" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
     </div>
   </div>
