@@ -55,6 +55,9 @@
     <div class="periodical"><em>IEEE Transactions on Multimedia <strong>(TMM) </strong>, AQ Oct. 2025.</em></div>
     <div class="links">
       <a href="https://arxiv.org/abs/2409.14021" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://github.com/eit-1m/EIT-1M-Benchmark" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+      <a href="https://huggingface.co/datasets/eit-1m/EIT-1M" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Dataset</a>
+      <a href="https://eit-1m.github.io/EIT-1M/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Page</a>
     </div>
   </div>
 </div>
