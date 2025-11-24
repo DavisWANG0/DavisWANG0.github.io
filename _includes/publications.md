@@ -133,7 +133,7 @@
     <div class="periodical"><em>IEEE/CVF Winter Conference on Applications of Computer Vision <strong>(WACV) </strong>, 2025.</em></div>
     <div class="links">
       <a href="https://doi.org/10.1109/WACV61041.2025.00238" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-      <a href="https://openaccess.thecvf.com/content/WACV2025/html/Wu_Dropout_the_High-Rate_Downsampling_A_Novel_Design_Paradigm_for_UHD_WACV_2025_paper.html" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Links</a>
+      <a href="https://github.com/5chen/MixNet_and_D2Net" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
     </div>
   </div>
 </div>
