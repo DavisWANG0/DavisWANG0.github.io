@@ -33,9 +33,9 @@ I got my B.Eng degree in <a href="https://cs.tongji.edu.cn/index.htm">Software E
 
 {% include_relative _includes/education.md %}
 
-<!-- ## Start-up Program
+<!-- ## Start-up Program -->
 
-{% include_relative _includes/startup.md %} -->
+<!-- {% include_relative _includes/startup.md %} -->
 
 ## Internships
 
