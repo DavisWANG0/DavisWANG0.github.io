@@ -18,7 +18,7 @@ I got my M.Phil degree in <a href="https://www.hkust-gz.edu.cn/academics/hubs-an
 I got my B.Eng degree in <a href="https://cs.tongji.edu.cn/index.htm">Software Engineering</a> from <a href="https://en.tongji.edu.cn/p/#/">Tongji University</a>, where I was privileged to work with Prof. <a href="https://scholar.google.com/citations?user=aYKQn88AAAAJ&hl=en&oi=ao">Wei Tian</a> at the <a href="https://github.com/tjiiv-cprg">Institute of Intelligent Vehicles @ Tongji University</a>. 
 
 ## News
-- *2026.01* Incoming Research Intern in Qwen Team @ Alibaba.🎉
+- *2026.01* Incoming Research Intern in **Qwen Team @ Alibaba**.🎉
 - *2026.01* One paper accepted to **IEEE Trans. Multimedia (TMM)**.🎉
 - *2025.11* One paper accepted to **IEEE Trans. Circuits Syst. Video Technol. (TCSVT)**.🎉
 - *2025.10* One Benchmark **TeleEgo** has beeen released.🎉
