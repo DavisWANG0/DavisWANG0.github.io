@@ -42,7 +42,7 @@
 </div>
 </li>
 
-<!-- <li>
+<li>
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/img/trans_braindreamer.png" class="teaser img-fluid z-depth-1">
@@ -52,13 +52,13 @@
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://arxiv.org/abs/2409.14021">BrainDreamer: Towards Reasoning-Coherent and Controllable Image Reconstruction from EEG Brain Signals via Language Guidance</a></div>
     <div class="author"><strong>Ling Wang<sup>†</sup></strong>, Chen Wu<sup>†</sup>, Lin Wang*</div>
-    <div class="periodical"><em>IEEE Transactions on Multimedia <strong>(TMM) </strong>, AQ Oct. 2025.</em></div>
+    <div class="periodical"><em>IEEE Transactions on Multimedia <strong>(TMM) </strong>, Jan. 2026.</em></div>
     <div class="links">
       <a href="https://arxiv.org/abs/2409.14021" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
     </div>
   </div>
 </div>
-</li> -->
+</li>
 
 <li>
 <div class="pub-row">
