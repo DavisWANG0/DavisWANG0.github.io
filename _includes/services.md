@@ -8,16 +8,14 @@
   <li><a href="https://eccv2022.ecva.net/"><autocolor>European Conference on Computer Vision (ECCV) 2022</autocolor></a></li> -->
 </ul>
 
-<!-- 
-<h4 style="margin:0 10px 0;">Journal Reviewers</h4>
+
+<h4 style="margin:0 10px 0;">Journal Reviewer</h4>
 
 <ul style="margin:0 0 20px;">
-  <li><a href="https://www.tandfonline.com/journals/lsta20" target="_blank"> Communications in Statistics - Theory and Methods</a></li>
-  <li><a href="https://www.frontiersin.org" target="_blank"> Frontiers in Surgery </a></li>
-  <li><a href="https://www.jmcp.org" target="_blank"> Journal of Managed Care & Specialty Pharmacy </a></li>
+  <li><a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34" target="_blank"> IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI) </a></li>
 </ul>
 
-<h4 style="margin:0 10px 0;">Membership & Activities</h4>
+<!-- <h4 style="margin:0 10px 0;">Membership & Activities</h4>
 
 <ul style="margin:0 0 20px;">
   <li><strong>[2019-present]</strong> Member of the <a href="https://www.amstat.org/" target="_blank"> American Statistical Association </a></li>
