@@ -19,7 +19,7 @@
         <td style="border: none; padding-left: 20px;">
             <p style="margin: 2px 0"><b>HKUST, Guangzhou, China</b></p>
             <p style="margin: 0px 0"><em>Master of Philosophy in Artificial Intelligence</em></p>
-            <p style="margin: 0px 0">Prime Supervisor: Prof. <a href="https://scholar.google.com/citations?user=cVDF1tkAAAAJ&hl=en&oi=ao">Hui Xiong</a> (<a href="https://ailab.hkust-gz.edu.cn/index.html#about">IEEE/AAAI/AAAS Fellow</a>)</p>
+            <p style="margin: 0px 0">Prime Supervisor: Prof. <a href="https://scholar.google.com/citations?user=cVDF1tkAAAAJ&hl=en&oi=ao">Hui Xiong</a> (<a href="https://ailab.hkust-gz.edu.cn/index.html#about">IEEE/AAAI/ACM/AAAS Fellow</a>)</p>
             <p style="margin: 0px 0">Co-Supervisor: Prof. <a href="https://scholar.google.com/citations?hl=en&user=AQtqhaYAAAAJ">Lei Zhu</a></p>
             <p style="margin: 0px 0">Aug. 2023 - Oct. 2025</p>
         </td>
