@@ -13,6 +13,7 @@
 
 <ul style="margin:0 0 20px;">
   <li><a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34" target="_blank"> IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI) </a></li>
+    <li><a href="https://ieeexplore.ieee.org/xpl/mostRecentIssue.jsp?punumber=5962385" target="_blank"> IEEE Transactions on Neural Networks and Learning Systems (TNNLS) </a></li>
 </ul>
 
 <!-- <h4 style="margin:0 10px 0;">Membership & Activities</h4>
