@@ -12,7 +12,39 @@
   <!-- 1. Preload local font file (fastest, no network dependency) -->
   <link rel="preload" href="./assets/fonts/CrimsonPro.ttf" as="font" type="font/ttf" crossorigin>
 
-  <!-- 2. Preconnect to font CDNs for fallback -->
+  <!-- 2. Inline @font-face so browser knows the font IMMEDIATELY -->
+  <style>
+    @font-face {
+      font-family: 'Crimson Pro';
+      src: url('./assets/fonts/CrimsonPro.ttf') format('truetype');
+      font-weight: 400;
+      font-style: normal;
+      font-display: block;
+    }
+
+    @font-face {
+      font-family: 'Crimson Pro';
+      src: url('./assets/fonts/CrimsonPro.ttf') format('truetype');
+      font-weight: 500;
+      font-style: normal;
+      font-display: block;
+    }
+
+    @font-face {
+      font-family: 'Crimson Pro';
+      src: url('./assets/fonts/CrimsonPro.ttf') format('truetype');
+      font-weight: 600;
+      font-style: normal;
+      font-display: block;
+    }
+
+    /* Hide body until font is ready to prevent FOUT */
+    body {
+      opacity: 0;
+    }
+  </style>
+
+  <!-- 3. Preconnect to font CDNs for fallback -->
   <!-- China mirror (loli.net) -->
   <link rel="preconnect" href="https://fonts.loli.net">
   <link rel="preconnect" href="https://gstatic.loli.net" crossorigin>
