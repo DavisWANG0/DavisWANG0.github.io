@@ -116,11 +116,6 @@
       </a>
       <br>
       {% endif %}
-      {% if site.address %}
-      <a href="{{ site.address_link }}" rel="noopener" target="_blank" style="text-decoration:none;">
-        <h4 style="font-family:Georgia, 'Times New Roman', Times, serif; font-style:italic; font-size:0.85rem;">{{ site.address }}</h4>
-      </a>
-      {% endif %}
       {% if site.email %}
       <a href="mailto: {{ site.email }}" style="color:#6d6d6d">
         <email>
@@ -129,7 +124,14 @@
       </a>
       {% endif %}
 
+      {% if site.address_line1 %}
       <br>
+      <a href="{{ site.address_link }}" rel="noopener" target="_blank" style="text-decoration:none;">
+        <h4 style="font-family:Georgia, 'Times New Roman', Times, serif; font-style:italic; font-size:0.75rem; margin-bottom:0;">{{ site.address_line1 }}</h4>
+        <h4 style="font-family:Georgia, 'Times New Roman', Times, serif; font-style:italic; font-size:0.75rem;">{{ site.address_line2 }}</h4>
+      </a>
+      {% endif %}
+
       <br>
       <div class="social-icons">
         {% if site.google_scholar %}
