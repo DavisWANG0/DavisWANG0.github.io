@@ -105,14 +105,14 @@
       <br>
       {% endif %}
       {% if site.subaffiliation %}
-      <a href="{{ site.subaffiliation_link }}" rel="noopener" target="_blank" style="text-decoration:none;">
-        <autocolor style="font-family:Georgia, 'Times New Roman', Times, serif; font-style:italic;">{{ site.subaffiliation }},</autocolor>
+      <a href="{{ site.subaffiliation_link }}" rel="noopener" target="_blank">
+        <autocolor>{{ site.subaffiliation }},</autocolor>
       </a>
       <br>
       {% endif %}
       {% if site.affiliation %}
-      <a href="{{ site.affiliation_link }}" rel="noopener" target="_blank" style="text-decoration:none;">
-        <autocolor style="font-family:Georgia, 'Times New Roman', Times, serif; font-style:italic;">{{ site.affiliation }}</autocolor>
+      <a href="{{ site.affiliation_link }}" rel="noopener" target="_blank">
+        <autocolor>{{ site.affiliation }}</autocolor>
       </a>
       <br>
       {% endif %}
@@ -132,6 +132,7 @@
       </a>
       {% endif %}
 
+      <br>
       <br>
       <div class="social-icons">
         {% if site.google_scholar %}
