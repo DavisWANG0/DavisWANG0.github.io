@@ -15,7 +15,7 @@ I am Ling WANG (<span style="font-family: 'MyKaiTi','KaiTi', '楷体';">王凌</
 
 I got my M.Phil degree in <a href="https://www.hkust-gz.edu.cn/academics/hubs-and-thrust-areas/information-hub/">AI Thrust of Information Hub</a> from <a href="https://www.hkust-gz.edu.cn/">Hong Kong University of Science and Technology, Guangzhou campus</a>, where I was honored to be advised by Prof. <a href="https://scholar.google.com/citations?user=cVDF1tkAAAAJ&hl=en&oi=ao">Hui Xiong</a> and Prof. <a href="https://scholar.google.com/citations?hl=en&user=AQtqhaYAAAAJ">Lei Zhu</a>. During my early studies, I was also mentored by Prof. <a href="https://scholar.google.com/citations?hl=en&user=SReb2csAAAAJ">Lin Wang</a> (later joined NTU, Singapore). I was also fortunate to work with Dr. <a href="https://chxy95.github.io/">Xiangyu Chen</a>.
 
-I got my B.Eng degree in <a href="https://cs.tongji.edu.cn/index.htm">Software Engineering</a> from <a href="https://en.tongji.edu.cn/p/#/">Tongji University</a>, where I was privileged to be advised by Prof. <a href="https://scholar.google.com/citations?user=aYKQn88AAAAJ&hl=en&oi=ao">Wei Tian</a> at the <a href="https://github.com/tjiiv-cprg">Institute of Intelligent Vehicles @ Tongji University</a>. 
+I got my B.Eng degree in Software Engineering from <a href="https://cs.tongji.edu.cn/index.htm">School of Computer Science and Technology</a>, <a href="https://en.tongji.edu.cn/p/#/">Tongji University</a>, where I was privileged to be advised by Prof. <a href="https://scholar.google.com/citations?user=aYKQn88AAAAJ&hl=en&oi=ao">Wei Tian</a> at the <a href="https://github.com/tjiiv-cprg">Institute of Intelligent Vehicles @ Tongji University</a>. 
 
 ## News
 - *2026.02* Humbled and excited to contribute through impactful work! ✨
