@@ -18,12 +18,12 @@ I got my M.Phil degree in <a href="https://www.hkust-gz.edu.cn/academics/hubs-an
 I got my B.Eng degree in <a href="https://cs.tongji.edu.cn/index.htm">Software Engineering</a> from <a href="https://en.tongji.edu.cn/p/#/">Tongji University</a>, where I was privileged to be advised by Prof. <a href="https://scholar.google.com/citations?user=aYKQn88AAAAJ&hl=en&oi=ao">Wei Tian</a> at the <a href="https://github.com/tjiiv-cprg">Institute of Intelligent Vehicles @ Tongji University</a>. 
 
 ## News
-- *2026.01* Humbled and excited to contribute through impactful work! ✨
+- *2026.02* Humbled and excited to contribute through impactful work! ✨
+- *2026.02* Two papers accepted to **CVPR 2026**. 🎉
 - *2026.01* Joined **Qwen Team @ Alibaba** as a Research Intern! 🎉
 - *2026.01* One paper accepted to **IEEE Trans. Multimedia (TMM)**. 🎉
 - *2025.11* One paper accepted to **IEEE Trans. Circuits Syst. Video Technol. (TCSVT)**. 🎉
 - *2025.10* One Benchmark **TeleEgo** has beeen released. 🎉
-- *2025.10* One survey accepted to **AI Flow (Vicinagearth)**. 🎉
 - *2025.02* One paper accepted to **IEEE Signal Processing Letters (SPL)**. 🎉
 - *2025.01* One paper accepted to **ICRA 2025** as Oral Presentation. 🎉
 - *2024.10* One paper accepted to **WACV 2025**. 🎉
