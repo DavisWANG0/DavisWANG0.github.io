@@ -20,7 +20,6 @@ address_link: https://maps.app.goo.gl/MpS8aqynME46sQUz7
 keywords: Ling WANG, Davis, MLLMs, Computer Vision, Low-level Vision.
 description: MLLMs, Computer Vision | Ph.D. student in DSAI @ PolyU | M.Phil in AI @ HKUST | B.Eng in SE @ Tongji University
 canonical: https://daviswang0.github.io/
-# canonical: https://minimal-light-theme.yliu.me/
 
 # Links
 # If you don't need one of them, you may delete the corresponding line.
@@ -49,7 +48,7 @@ google_analytics: UA-342513625-4
 
 # Use this project as a remote theme for GitHub Pages
 # See the guide here: https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/adding-a-theme-to-your-github-pages-site-using-jekyll
-remote_theme: yaoyao-liu/minimal-light
+remote_theme: DavisWANG0/minimal-light
 
 # The following files will be removed from the generated website.
 exclude:
