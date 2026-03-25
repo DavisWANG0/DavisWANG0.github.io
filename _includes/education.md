@@ -30,7 +30,7 @@
         </td>             
         <td style="border: none; padding-left: 20px;">
             <p style="margin: 2px 0"><b>Tongji University, Shanghai, China</b></p>
-            <p style="margin: 0px 0"><em>Bachelor of Software Engineering in School of Computer Science and Technology</em></p>
+            <p style="margin: 0px 0"><em>Bachelor of SE in School of Computer Science and Technology</em></p>
             <p style="margin: 0px 0">Advisor: Prof. <a href="https://scholar.google.com/citations?user=aYKQn88AAAAJ&hl=en&oi=ao">Wei Tian</a></p>
             <p style="margin: 0px 0">Sep. 2019 - Jul. 2023</p>
         </td>
