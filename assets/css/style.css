@@ -667,4 +667,18 @@ footer {
   font-family: monospace;
 }
 
+.visitor-map {
+  width: 25%;
+  max-width: 165px;
+  margin-top: 0.5rem;
+  line-height: 0;
+}
+
+.visitor-map iframe,
+.visitor-map img,
+.visitor-map canvas {
+  max-width: 100% !important;
+  height: auto !important;
+}
+
 /*# sourceMappingURL=style.css.map */
