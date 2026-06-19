@@ -1,7 +1,7 @@
 <h4 style="margin:0 10px 0;">Conference Reviewer & Program Committee Member</h4>
 
 <ul style="margin:0 0 5px;">
-  <li><a href="https://aaai.org/conference/aaai/aaai-26/"><autocolor>The AAAI Conference on Artificial Intelligence (AAAI) 2026</autocolor></a></li>
+  <li><a href="https://aaai.org/conference/aaai/"><autocolor>The AAAI Conference on Artificial Intelligence (AAAI)</autocolor></a></li>
   <!-- <li><a href="https://cvpr.thecvf.com/Conferences/2026"><autocolor>The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2026</autocolor></a></li> -->
   <!-- 
   <li><a href="http://iccv2021.thecvf.com/"><autocolor>IEEE/CVF International Conference on Computer Vision (ICCV) 2021</autocolor></a></li>
