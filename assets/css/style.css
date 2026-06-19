@@ -669,16 +669,19 @@ footer {
 
 .visitor-map {
   width: 100%;
-  max-width: 330px;
-  margin: 0.5rem auto 0;
+  margin: 0.5rem 0 0;
   line-height: 0;
+  text-align: center;
 }
 
 .visitor-map iframe,
 .visitor-map img,
-.visitor-map canvas {
-  max-width: 100% !important;
+.visitor-map canvas,
+.visitor-map > div {
+  max-width: 330px !important;
   height: auto !important;
+  margin-left: auto !important;
+  margin-right: auto !important;
 }
 
 /*# sourceMappingURL=style.css.map */
