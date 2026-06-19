@@ -45,4 +45,4 @@ I got my B.Eng degree in <a href="https://cs.tongji.edu.cn/index.htm">School of 
 
 ---
 
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=080808&w=288&t=tt&d=VhOGL8yR6vLDt7zZXLStdEYZ9uqXoNHV3VRjVwZlFUw&co=ffffff&cmo=3acc3a&cmn=ff5353&ct=9e9e9e'></script>
+<script type='text/javascript' id='mapmyvisitors' src='//mapmyvisitors.com/map_v2.js?cl=080808&w=288&t=tt&d=VhOGL8yR6vLDt7zZXLStdEYZ9uqXoNHV3VRjVwZlFUw&co=ffffff&cmo=3acc3a&cmn=ff5353&ct=9e9e9e'></script>
