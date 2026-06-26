@@ -25,6 +25,46 @@
 <li>
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/cvpr26_evdehaze.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">CVPR 2026</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://cvpr.thecvf.com/virtual/2026/poster/37331">EvDehaze: Dynamic Scene Dehazing via Event Camera</a></div>
+    <div class="author"><strong>Ling Wang<sup>†</sup></strong>, Yunfan Lu<sup>†</sup>, Wenzong Ma, Huizai Yao, Pengteng Li, Hui Xiong*</div>
+    <div class="periodical"><em>IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR) </strong>, 2026.</em></div>
+    <div class="links">
+      <a href="https://cvpr.thecvf.com/virtual/2026/poster/37331" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="assets/files/evdehaze_cvpr_poster.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Poster</a>
+      <a href="https://evdehaze.github.io/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Page</a>
+      <a href="https://github.com/DavisWANG0/EvDehaze" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+    </div>
+  </div>
+</div>
+</li>
+
+<li>
+<div class="pub-row">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/cvpr26_c2ssm.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">CVPR 2026</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://cvpr.thecvf.com/virtual/2026/poster/39422">Scan Clusters, Not Pixels: A Cluster-Centric Paradigm for Efficient Ultra-high-definition Image Restoration</a></div>
+    <div class="author">Chen Wu, <strong>Ling Wang</strong>, Zhuoran Zheng, Yuning Cui, Zhixiong Yang, Xiangyu Chen, Yue Zhang, Weidong Jiang, Jingyuan Xia*</div>
+    <div class="periodical"><em>IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR) </strong>, 2026.</em></div>
+    <div class="links">
+      <a href="https://cvpr.thecvf.com/virtual/2026/poster/39422" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://github.com/5chen/C2SSM" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+    </div>
+  </div>
+</div>
+</li>
+
+<li>
+<div class="pub-row">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/img/icra25_visualization.png" class="teaser img-fluid z-depth-1">
     <abbr class="badge">ICRA 2025</abbr>
   </div>
@@ -55,7 +95,7 @@
     <div class="author"><strong>Ling Wang<sup>†</sup></strong>, Chen Wu<sup>†</sup>, Lin Wang*</div>
     <div class="periodical"><em>IEEE Transactions on Multimedia <strong>(TMM) </strong>, Jan. 2026.</em></div>
     <div class="links">
-      <a href="https://arxiv.org/abs/2409.14021" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://arxiv.org/abs/2409.14021" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Link</a>
     </div>
   </div>
 </div>
@@ -171,7 +211,7 @@
     <div class="author">Jingren Liu, Yun Wang, Long Zhang, Yiheng Wang, Shuning Xu, <strong>Ling Wang</strong>, Jiaqi Yan, Dell Zhang & Xiangyu Chen*</div>
     <div class="periodical"><em>AI Flow (Vicinagearth), 2025. </em></div>
     <div class="links">
-      <a href="https://doi.org/10.1007/s44336-025-00017-w" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://doi.org/10.1007/s44336-025-00017-w" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Survey</a>
     </div>
   </div>
 </div>
