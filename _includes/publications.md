@@ -35,9 +35,9 @@
     <div class="periodical"><em>IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR) </strong>, 2026.</em></div>
     <div class="links">
       <a href="https://cvpr.thecvf.com/virtual/2026/poster/37331" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://github.com/DavisWANG0/EvDehaze" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
       <a href="assets/files/evdehaze_cvpr_poster.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Poster</a>
       <a href="https://evdehaze.github.io/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Page</a>
-      <a href="https://github.com/DavisWANG0/EvDehaze" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
     </div>
   </div>
 </div>
@@ -57,6 +57,7 @@
     <div class="links">
       <a href="https://cvpr.thecvf.com/virtual/2026/poster/39422" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <a href="https://github.com/5chen/C2SSM" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+      <a href="assets/files/c2ssm_cvpr_poster.png" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Poster</a>
     </div>
   </div>
 </div>
@@ -75,8 +76,8 @@
     <div class="periodical"><em>IEEE International Conference on Robotics and Automation <strong>(ICRA) </strong>, 2025.</em></div>
     <div class="links">
       <a href="https://doi.org/10.1109/ICRA55743.2025.11128232" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-      <a href="../assets/video/ICRA25_4264_VI_i.mp4" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Demo</a>
       <a href="https://github.com/DavisWANG0/DAP-LED" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+      <a href="../assets/video/ICRA25_4264_VI_i.mp4" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Demo</a>
       <a href="https://ras.papercept.net/conferences/conferences/ICRA25/program/ICRA25_ContentListWeb_3.html#thet1_07" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Oral Presentation</a>
     </div>
   </div>
